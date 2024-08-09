@@ -8,7 +8,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 
 window= Tk()
 window.title("Chatbot")
-bubbles = [] #empty list to store all instances of chat bubble (message)
+bubbles = [] 
 
 #creating canvas for adding controls
 canvas = Canvas(window, width=600, height=600,bg="sky blue")
