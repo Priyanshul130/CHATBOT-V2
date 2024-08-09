@@ -1,3 +1,5 @@
+# DEVELOPED BY <PRIYANSHUL SHARMA>
+# WEb page piyanshul.is-a.dev
 from tkinter import *
 from chatterbot import ChatBot
 from chatterbot.trainers import ChatterBotCorpusTrainer
